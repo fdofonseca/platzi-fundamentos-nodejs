@@ -1,0 +1,4 @@
+npm i -g nodemon > Recomendado usarlo en Desarrollo
+ nodemon conceptos/entorno.js
+npm i -g pm2 > Recomendado usarlo en Producción par ael monitoreo o posibles errores
+ pm2 start....
