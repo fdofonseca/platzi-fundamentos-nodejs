@@ -1,0 +1,1 @@
+ejecutar comando node-gyp configure > node-gyp build
